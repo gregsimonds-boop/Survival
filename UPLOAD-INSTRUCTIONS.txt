@@ -1,0 +1,12 @@
+GITHUB PAGES UPLOAD
+
+1. Extract this ZIP on your computer.
+2. Open the Survival repository on GitHub and choose Add file > Upload files.
+3. Upload ALL extracted HTML files, style.css, and the complete images folder to the repository root, replacing the previous versions. Do not upload the ZIP itself.
+4. Commit the changes and wait for GitHub Pages to finish deploying, then refresh the site.
+
+Paths now work at https://gregsimonds-boop.github.io/Survival/ and at the custom domain root.
+
+Home, Privacy Policy, and Terms & Conditions links retain the required permanent SurvivalPestControl.com URLs. Until the custom domain is connected to GitHub Pages, those links may leave the GitHub preview. All other internal page links and all assets use portable relative paths.
+
+The .nojekyll file tells GitHub Pages to serve this static website directly; include it if your upload method allows hidden files. No CNAME is included, so this package does not change your domain configuration.
